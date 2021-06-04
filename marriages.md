@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marriages
+title: Marriages again
 permalink: /marriages/
 ---
 <div class="container">

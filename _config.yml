@@ -11,7 +11,7 @@ url: "https://CooperFamilyTree.github.io/" # the base hostname & protocol for yo
 
 # Build settings
 markdown: kramdown
-date_format: "%Y %-m, %d"
+date_format: "%B %d, %Y"
 
 sass:
   sass_dir: _sass

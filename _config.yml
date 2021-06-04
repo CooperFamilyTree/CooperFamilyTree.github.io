@@ -1,25 +1,20 @@
 
 # Site settings
-title: Reproducible Research
+title: Cooper Family Tree
 subtitle: ""
 #email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://research-reuse.github.io/" # the base hostname & protocol for your site
+url: "https://CooperFamilyTree.github.io/" # the base hostname & protocol for your site
 
 
 # Build settings
 markdown: kramdown
-date_format: "%b %-d, %Y"
+date_format: "%Y %-m, %d"
 
 sass:
   sass_dir: _sass
-
-social_links:
-    twitter: hashtag/CDCF2019
-    github: research-reuse
-    rss: rss
 
 include:
   - _pages

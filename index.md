@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Curating Data Sets for Reproducibility
+layout: page
+title: Family Tree
 ---
 
 This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined.

@@ -3,5 +3,7 @@ layout: page
 title: Geneaology Report - Cooper
 permalink: /reportcooper/
 ---
-# Geneaology Chart - Cooper2
-![Cooper Hourglass Chart](/assets/COOPERGeneaologyReport50.png)
+# Geneaology Chart - Cooper
+<a href="/assets/COOPERGeneaologyReport.png">
+  <img src="/assets/COOPERGeneaologyReport50.png" alt="Cooper Hourglass Chart">
+</a>
